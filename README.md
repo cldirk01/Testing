@@ -1,3 +1,3 @@
 # Testing
 
-jon.snow2026&#64;htcmail.net
+'jon.snow2026htcmail.net'
