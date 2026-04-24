@@ -1,3 +1,3 @@
 # Testing
 
-'jon.snow2026doitalllabs.com'
+'jon.snow2026@doitalllabs.com'
